@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c55300f6-8409-45b6-a78f-d85bb450d64a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;005affff&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2yoElxkM4glTaVHiimHI0iXdtmV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "HTTP Request.generated-requests | #4.executor": "Run",
+    "Maven.tickets [clean,compile].executor": "Run",
+    "Maven.tickets [clean,install].executor": "Run",
+    "Maven.tickets [clean].executor": "Run",
+    "Maven.tickets [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Notification.DisplayName-DoNotAsk-Database detector": "Database detector",
+    "Notification.DoNotAsk-Database detector": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.TicketsApplication.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HARSH DANGAR/IdeaProjects/tickets",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "build.tools",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HARSH DANGAR\IdeaProjects\tickets\backend" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.harsh.tickets.domain" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.harsh.tickets.exceptions" />
+      <recent name="org.harsh.tickets.repositories" />
+      <recent name="org.harsh.tickets.domain.dtos" />
+      <recent name="org.harsh.tickets.domain" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TicketsApplication">
+    <configuration name="generated-requests | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#4" index="4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="TicketsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="tickets" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.harsh.tickets.TicketsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c55300f6-8409-45b6-a78f-d85bb450d64a" name="Changes" comment="" />
+      <created>1750492682315</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750492682315</updated>
+      <workItem from="1750492683387" duration="632000" />
+      <workItem from="1750515902491" duration="1389000" />
+      <workItem from="1750527049865" duration="38000" />
+      <workItem from="1750527096375" duration="132000" />
+      <workItem from="1750527241321" duration="396000" />
+      <workItem from="1750573288577" duration="641000" />
+      <workItem from="1750577490097" duration="4173000" />
+      <workItem from="1750654470004" duration="2621000" />
+      <workItem from="1750764655201" duration="1547000" />
+      <workItem from="1750827093354" duration="4991000" />
+      <workItem from="1750838593066" duration="3790000" />
+      <workItem from="1750918652140" duration="1171000" />
+      <workItem from="1750928916320" duration="13000" />
+      <workItem from="1751104950503" duration="649000" />
+      <workItem from="1751806723701" duration="2000" />
+      <workItem from="1752146611776" duration="156000" />
+      <workItem from="1752146941548" duration="88000" />
+      <workItem from="1752223278914" duration="6500000" />
+      <workItem from="1752239962055" duration="221000" />
+      <workItem from="1752240278740" duration="415000" />
+      <workItem from="1752240962692" duration="5000" />
+      <workItem from="1752242374930" duration="6000" />
+      <workItem from="1752257274016" duration="6202000" />
+      <workItem from="1752315974512" duration="6000" />
+      <workItem from="1752318489859" duration="3000" />
+      <workItem from="1752507348367" duration="646000" />
+      <workItem from="1752761643972" duration="537000" />
+      <workItem from="1752762239687" duration="165000" />
+      <workItem from="1752904135889" duration="2700000" />
+      <workItem from="1753005786905" duration="3300000" />
+      <workItem from="1753012298483" duration="48000" />
+      <workItem from="1753368020325" duration="84000" />
+      <workItem from="1753368186861" duration="46000" />
+      <workItem from="1753431161610" duration="4000" />
+      <workItem from="1753431535302" duration="5525000" />
+      <workItem from="1753446677640" duration="2000" />
+      <workItem from="1753618281060" duration="4316000" />
+      <workItem from="1753630830110" duration="2746000" />
+      <workItem from="1753633643679" duration="24000" />
+      <workItem from="1753633756037" duration="40000" />
+      <workItem from="1753634487543" duration="5000" />
+      <workItem from="1753674355332" duration="25000" />
+      <workItem from="1753674865997" duration="9000" />
+      <workItem from="1753675451600" duration="273000" />
+      <workItem from="1753678466671" duration="1790000" />
+      <workItem from="1753680341024" duration="1249000" />
+      <workItem from="1753688423420" duration="1152000" />
+      <workItem from="1753690067761" duration="3308000" />
+      <workItem from="1753699139590" duration="352000" />
+      <workItem from="1753699506421" duration="20000" />
+      <workItem from="1753703932964" duration="5558000" />
+      <workItem from="1753977101603" duration="171000" />
+      <workItem from="1754021352246" duration="1038000" />
+      <workItem from="1754022409269" duration="189000" />
+      <workItem from="1754204486245" duration="217000" />
+      <workItem from="1754204771451" duration="1594000" />
+      <workItem from="1754543894565" duration="1667000" />
+      <workItem from="1754646697992" duration="502000" />
+      <workItem from="1755443404862" duration="10000" />
+      <workItem from="1755448240114" duration="18000" />
+      <workItem from="1755448391256" duration="479000" />
+      <workItem from="1755449811839" duration="6000" />
+      <workItem from="1755450084306" duration="150000" />
+      <workItem from="1755501619453" duration="2146000" />
+      <workItem from="1756102245460" duration="163000" />
+      <workItem from="1756364159673" duration="1067000" />
+      <workItem from="1756458319417" duration="3567000" />
+      <workItem from="1756548343556" duration="1186000" />
+      <workItem from="1756879598417" duration="1547000" />
+      <workItem from="1756969203642" duration="711000" />
+      <workItem from="1756976878060" duration="2806000" />
+      <workItem from="1756981667516" duration="600000" />
+      <workItem from="1758485419038" duration="6000" />
+      <workItem from="1758776272941" duration="5773000" />
+      <workItem from="1758783791497" duration="2000" />
+      <workItem from="1759402691491" duration="1044000" />
+      <workItem from="1759403922249" duration="187000" />
+      <workItem from="1759404318008" duration="88000" />
+      <workItem from="1759404453632" duration="2166000" />
+      <workItem from="1761710671447" duration="238000" />
+      <workItem from="1765292972615" duration="4561000" />
+      <workItem from="1765358351426" duration="2592000" />
+      <workItem from="1765360980807" duration="105000" />
+      <workItem from="1765361136892" duration="312000" />
+      <workItem from="1765370625309" duration="7442000" />
+      <workItem from="1765425335834" duration="7000" />
+      <workItem from="1765425577434" duration="9578000" />
+      <workItem from="1765442527557" duration="2931000" />
+      <workItem from="1765447099040" duration="283000" />
+      <workItem from="1765452245190" duration="3378000" />
+      <workItem from="1765460418870" duration="1140000" />
+      <workItem from="1766413563999" duration="60000" />
+      <workItem from="1766478408188" duration="507000" />
+      <workItem from="1766552127372" duration="1559000" />
+      <workItem from="1767284844400" duration="148000" />
+      <workItem from="1767285929151" duration="10000" />
+      <workItem from="1767285945206" duration="118000" />
+      <workItem from="1767286422962" duration="9000" />
+      <workItem from="1767286443838" duration="6000" />
+      <workItem from="1767286510400" duration="308000" />
+      <workItem from="1767342345237" duration="1000" />
+      <workItem from="1767368104292" duration="1605000" />
+      <workItem from="1767369754274" duration="11000" />
+      <workItem from="1767415770552" duration="3000" />
+      <workItem from="1767417301696" duration="208000" />
+      <workItem from="1767427517866" duration="213000" />
+      <workItem from="1767431864089" duration="99000" />
+      <workItem from="1767449957548" duration="3020000" />
+      <workItem from="1767453531217" duration="42000" />
+      <workItem from="1767454795781" duration="42000" />
+      <workItem from="1767505192241" duration="30000" />
+      <workItem from="1767506865315" duration="820000" />
+      <workItem from="1767514614745" duration="44000" />
+      <workItem from="1767528725803" duration="423000" />
+      <workItem from="1767603549815" duration="3254000" />
+      <workItem from="1767609636474" duration="4000" />
+      <workItem from="1767627228516" duration="1370000" />
+      <workItem from="1767628631286" duration="2637000" />
+      <workItem from="1767636240659" duration="1283000" />
+      <workItem from="1767673099024" duration="1840000" />
+      <workItem from="1767676659179" duration="12000" />
+      <workItem from="1767678843795" duration="101000" />
+      <workItem from="1767775669884" duration="45000" />
+      <workItem from="1767781769664" duration="191000" />
+      <workItem from="1767792669853" duration="4275000" />
+      <workItem from="1767868826406" duration="605000" />
+      <workItem from="1767879779049" duration="30000" />
+      <workItem from="1768103964950" duration="1796000" />
+      <workItem from="1768109293533" duration="712000" />
+      <workItem from="1768110019208" duration="23000" />
+      <workItem from="1768110762964" duration="62000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.web.servlet.resource.NoResourceFoundException" package="org.springframework.web.servlet.resource" />
+          <option name="timeStamp" value="12" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/harsh/tickets/services/impl/TicketServiceImpl.java</url>
+          <line>20</line>
+          <properties class="org.harsh.tickets.services.impl.TicketServiceImpl">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="eventService" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
