@@ -6,6 +6,11 @@ This platform manages the **entire event lifecycle** — from event creation to 
 
 ---
 
+## Table Of Contents
+
+- [Frontend Installation](#-run-the-frontend)
+- [Backend Installation](#-run-the-backend)
+
 ## 🚀 What this platform does
 
 The Event Ticket Platform supports three types of users:
@@ -156,7 +161,7 @@ Spring Boot validates JWT tokens issued by Keycloak.
 
 ---
 
-## 🐳 Running the Project Frontend
+## 🐳 Run the Frontend
 
 ### 1️⃣ Install required dependencies
 
@@ -170,7 +175,7 @@ npm run dev
 http://localhost:5173
 ```
 
-## 🐳 Running the Project Backend
+## 🐳 Run the Backend
 
 ### 1️⃣ Start PostgreSQL & Keycloak
 
@@ -194,3 +199,4 @@ mvn clean compile
 ```bash
 mvn spring-boot:run
 ```
+
